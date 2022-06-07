@@ -12,4 +12,5 @@ Im 42 years old. Once I studied economics, now I work as a baker and I really wa
 ###  Education:
 #ITGIRLS (not finished)
 ### languages:
-russian - native
+* russian - native
+* english - A1 elementary
