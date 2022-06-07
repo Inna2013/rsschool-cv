@@ -1,4 +1,5 @@
 # Inna Bardadze
+![image](https://user-images.githubusercontent.com/91144281/172281343-3e73cfd1-f51a-4c89-873c-55a904d22b11.png)
 
 ## Contacts:
 * tel: +79196921451
